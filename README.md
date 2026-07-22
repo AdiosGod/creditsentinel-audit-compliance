@@ -27,6 +27,19 @@ Currently in early development. Initial work is focused on [credit risk scoring 
 Tech Stack (planned)
 Python · [machine learning libraries] · [API framework] · [database] · [dashboard]
 
+## My Contributions
+
+As a Generative AI Engineering Intern at Skillvance Technologies, I contributed to the CreditSentinel project by designing and validating components that improve the quality, reliability, and documentation of AI-generated credit memos.
+
+### Key Contributions
+- Prompt Engineering for structured credit memo generation.
+- Automated evaluation framework for quality assessment.
+- FastAPI evaluation API development and testing.
+- Validation of AI-generated outputs using predefined quality metrics.
+- Audit logging and compliance documentation.
+- Data retention and governance documentation.
+- Technical documentation and project reporting.
+
 To be finalized as the build progresses.
 
 
